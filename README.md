@@ -2,8 +2,11 @@
 
 **Team member information**
 
-Sydney Boomer -
-Cade Lederer -
+Sydney Boomer - Implement Minimax and develop test cases to evaluate the AI.
+
+Cade Lederer - Develop the game board, legal moves, turn management, and win/draw detection.
+
+Both members are involved with the overall development of the game application and implementation of the Minimax search method. Game testing and documentation of results are performed by all members.
 
 **Description of Project**
 
